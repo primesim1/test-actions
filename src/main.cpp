@@ -1,3 +1,7 @@
+
+/**
+ * * g++ -std=c++11 -o test main.cpp ;; does not work with MINGW64 tools
+*/
 #include<iostream>
 #include<vector>
 #include<cassert>
